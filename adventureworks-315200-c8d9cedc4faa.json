@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adventureworks-315200",
+  "private_key_id": "c8d9cedc4faad8324d84f410fa06f9fc727a6004",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+D+3ihylofDvD\nxB6ankQVX5RTeO1FyLQuZNKr4HCmIGVkNRx2/z3S6AR/tsvwDvgBoTvRMe1XXGj5\ncFS/ZN4PzdsG0WoPpxzRS0uXKFVPBzYf+wmO25eJOI5FlJt170PdkdfnRZOfmpfo\ndGFFhhAVRq+NmWSxqxVzq7R4TKLGiilXYYziZkzODeCA3JLNBgTJ1pS0nEwpoW9L\nO1ZczHuEiw4roE0kB2J30VWotPjmRFkTMeeuSzy38wJk1plrn5vnVUO6M1n7pgU8\nZ/DkKNneeibE6vBimBjIwMfvoalerl1GDVQ2yxFEOqu2enUs5QlPUurDv1L6nBD7\nHc3rPVI1AgMBAAECggEABPwBrKi+fotrhmU5TD4yBpzly6Mvzcv+GkQ66rtNYiKE\nOHvUqWrSxqx6LAND8sYq3XOBdM4FrZCybBKHFnHhLiARN/1FGqcglMZG4VwX2u6T\nVzuncvHNVf9/2D8Dmv4IXk/njgptOIi+pkRqgTXUbCXZIZ/0pROZrSLDN0q6E9Fj\n3/smORqbVesLMAIrGxRh4ETTkpfypxaOYUn8NKYVMuwXduAPm9wNNUjfgxaCRYWh\nzDcS4oti/2hU/gmgnSOV3DYMY0L9fNEqV/ztH+uhcXGzPF0Zc0BIT7vI2sK7Q2Y1\nEUpr2M/nlxnsMMdD/BJJq9PQwQ1i+6B2OFuRYXBdgQKBgQDtJk3Re8H0m36dsLbz\nPUn0MQjl0sigypg9J7IjTMYQQbVnAa76ci9rJ7ubyDFN4w9Sk3uga/4XT2hCLcBC\nYWI8y6iA55699o3oXhBq4njKYEcdTrO+fh0UZODglhLTqeRaTW5T+BFoCCmjnXcZ\ncgPxraqGDTd7m/RzSeQmycG+4QKBgQDNK3S7IRDXXSqOV+9eItgorA/nWy9XrZX3\ntdAW0SA1s+LERw7vKpXHv4diAM/P8nm09jAVA4hDBBSNxeERfppLVAiYJ+ScY5m8\n5sqvvCpLCjtycJHIiJ59UAzXVMSk6q5SoIUKyR05+By2aXvZtihOiKWlobh/6eXg\nxG23qb6h1QKBgQDXEbTjNXRZzKcQhZH1mHC4R7wFCZsvz2wvkg+I2fiKB71nFGzG\n7sU4Tclj5zNnqnNb9SrZ+vZt13L7CZjh2oWIEz7W4LfjGXXq9Vu4Q3k+OABmgNib\n+q2OsEoNA61BTkMs7ioPdtr6WOTCYG0Bo5gWFuSeO+BEdtRDthB2aOUPoQKBgATK\nMO11dikw+Z9dGi9+bMF2UuC51j8bxFaGHheKRlA6pN6kMgsPWXPSWtzE3BUkugap\ngLHc5T97RueQaRK5e+yqR5EVzVaBVMN+N9kmcW5TDNQ9IIon9ltClSopxnV7LRqs\nuK5px47k5fa0O7n3cLV0pzlYry/9S+qVa2JQSi0JAoGBAK1BbjFWk4GGZn4beBXv\nwJb1u1qcCQ0l9WQyxmZ8uOATXBaVR/1TEWc+Km0dzfGGjHP7wz2GnqI/puLWNIih\njzMTnqQMstAhMOSEdJkKbTsNVkbEDLP+PPyaKmYOo1tsu8TbLH0aQcLU53l+q8fk\ny0uCSyWPIk7PA7VRwUrwz/qw\n-----END PRIVATE KEY-----\n",
+  "client_email": "diego-veloza@adventureworks-315200.iam.gserviceaccount.com",
+  "client_id": "113887448020797063000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diego-veloza%40adventureworks-315200.iam.gserviceaccount.com"
+}
